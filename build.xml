@@ -6,7 +6,7 @@
 4. create zip files
 -->
 
-<project name="Test2App" default="dist" basedir=".">
+<project name="Random_GIT" default="dist" basedir=".">
   <description>
       simple example build file
   </description>
